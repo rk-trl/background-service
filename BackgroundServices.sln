@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundServices", "BackgroundServices\BackgroundServices.csproj", "{B179E385-CC8E-487F-90DF-A5DF84CB4543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireService", "HangfireService\HangfireService.csproj", "{8703C1EB-45FF-4046-9780-EFB9DC7D0D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B179E385-CC8E-487F-90DF-A5DF84CB4543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B179E385-CC8E-487F-90DF-A5DF84CB4543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B179E385-CC8E-487F-90DF-A5DF84CB4543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B179E385-CC8E-487F-90DF-A5DF84CB4543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8703C1EB-45FF-4046-9780-EFB9DC7D0D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8703C1EB-45FF-4046-9780-EFB9DC7D0D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8703C1EB-45FF-4046-9780-EFB9DC7D0D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8703C1EB-45FF-4046-9780-EFB9DC7D0D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69FE04F3-82C2-42B0-8D4B-FD8DB80A3116}
+	EndGlobalSection
+EndGlobal
